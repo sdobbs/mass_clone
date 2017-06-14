@@ -73,9 +73,3 @@ else
 		git clone ${url}
 	done <<< "$justURLs"
 fi
-
-
-
-
-
-

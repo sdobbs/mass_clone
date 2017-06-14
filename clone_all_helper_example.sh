@@ -17,8 +17,8 @@ else
 	assignment=$1
 
 	#edit these variables to your defaults
-	organization="Organization"
-	username="username"
+	organization="advanced-biostat-lab-fall-2017"
+	username="jfiksel"
 	protocol="ssh"
 
 	./clone_all.sh ${organization} ${assignment} ${username} ${protocol}
