@@ -17,9 +17,9 @@ else
 	assignment=$1
 
 	#edit these variables to your defaults
-	organization="Organization"
-	username="username"
-	protocol="ssh"
+	organization="phyz4151-spring2020"
+	username="sdobbs"
+	protocol="https"
 
 	./clone_all.sh ${organization} ${assignment} ${username} ${protocol}
 fi
