@@ -17,7 +17,7 @@ else
 	assignment=$1
 
 	#edit these variables to your defaults
-	organization="phyz4151-spring2020"
+	organization="phz4151-spring2021"
 	username="sdobbs"
 	protocol="https"
 
